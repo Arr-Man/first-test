@@ -1,7 +1,4 @@
 this is new git test
-<<<<<<< HEAD
-this is local repo update
-=======
 this git repo update
->>>>>>> 0485c42e55862fe1ec09b8b75d1ddb6de1a3e022
+
 
