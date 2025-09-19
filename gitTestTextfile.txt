@@ -1,6 +1,3 @@
 this is new git test
-<<<<<<< HEAD
-this is local repo update
-=======
-this is updated bla bla bla ......
->>>>>>> 03365abf53fba793c0c71b15d2454ee72c57f61f
+this git repo update
+
