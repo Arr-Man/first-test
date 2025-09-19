@@ -1,5 +1,9 @@
 this is new git test
+<<<<<<< HEAD
 this git repo update
 this is not git repo update update
 this is not pull git repo update update
+=======
+
+>>>>>>> 7ff78818d9728fb74b198ba5f6a7a022dcf0378d
 
